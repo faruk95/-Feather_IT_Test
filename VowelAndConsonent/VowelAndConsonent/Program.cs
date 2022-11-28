@@ -13,11 +13,12 @@ namespace VowelAndConsonent
             Console.WriteLine("Please Enter a String :");
             string s=Console.ReadLine();
             foreach (var item in s)
-            {if (item >= 'A' && item <= 'z')
+            {
+                if( (item >= 'a' && item <= 'z')|| (item >= 'A' && item <= 'A'))
                 {
-                    if (item == 'a' || item == 'A' || item == 'E' || item == 'E' || item == 'o' || item == 'O' || item == 'i' || item == 'I' || item == 'u' || item == 'U')
+                    if (item == 'a' || item == 'A' || item == 'e' || item == 'E' || item == 'o' || item == 'O' || item == 'i' || item == 'I' || item == 'u' || item == 'U')
                     {
-                        Console.WriteLine($"{item} is an Vowel");
+                        Console.WriteLine($"{item} is a Vowel");
                     }
                     else
                         Console.WriteLine($"{item} is a Consonent");

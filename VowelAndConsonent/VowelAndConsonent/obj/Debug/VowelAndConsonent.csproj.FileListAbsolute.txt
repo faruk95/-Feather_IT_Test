@@ -6,3 +6,11 @@ C:\Users\far\source\repos\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAnd
 C:\Users\far\source\repos\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.csproj.CoreCompileInputs.cache
 C:\Users\far\source\repos\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.exe
 C:\Users\far\source\repos\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.pdb
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\bin\Debug\VowelAndConsonent.exe.config
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\bin\Debug\VowelAndConsonent.exe
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\bin\Debug\VowelAndConsonent.pdb
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.exe
+C:\Users\far\source\repos\FeatherIT_Test\VowelAndConsonent\VowelAndConsonent\obj\Debug\VowelAndConsonent.pdb
