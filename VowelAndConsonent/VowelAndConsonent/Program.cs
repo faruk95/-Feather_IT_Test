@@ -14,7 +14,7 @@ namespace VowelAndConsonent
             string s=Console.ReadLine();
             foreach (var item in s)
             {
-                if( (item >= 'a' && item <= 'z')|| (item >= 'A' && item <= 'A'))
+                if( (item >= 'a' && item <= 'z') || (item >= 'A' && item <= 'Z'))
                 {
                     if (item == 'a' || item == 'A' || item == 'e' || item == 'E' || item == 'o' || item == 'O' || item == 'i' || item == 'I' || item == 'u' || item == 'U')
                     {
