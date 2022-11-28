@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\bin\Debug\Unique_characters_of_a_string.exe.config
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\bin\Debug\Unique_characters_of_a_string.exe
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\bin\Debug\Unique_characters_of_a_string.pdb
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\obj\Debug\Unique_characters_of_a_string.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\obj\Debug\Unique_characters_of_a_string.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\obj\Debug\Unique_characters_of_a_string.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\obj\Debug\Unique_characters_of_a_string.exe
+C:\Users\far\source\repos\Unique_characters_of_a_string\Unique_characters_of_a_string\obj\Debug\Unique_characters_of_a_string.pdb
